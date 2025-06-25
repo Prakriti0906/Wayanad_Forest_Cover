@@ -3,6 +3,8 @@
 
 The main motivation behind this project was that this uses different  types of machine learning  models on 2023 satellite imagery from Google Earth Engine to map and analyze the changes in forest cover for 2019 in **WAYANAD**(KERALA). The goal is to provide an accessible and reproducible workflow for monitoring deforestation and reforestation.
 
+Also, a comparative study could be completed when we use Landsat (30m resolution) and Sentinel (10m resolution) to monitor the forest cover using the same model
+
 
 This is a Project on CNN (deep learning model) where the GEE is used to extract the 4-band image of 2023 to train the model by creating patches for training and validation corresponding to the masked image (forest cover) for the corresponding year.
 
