@@ -4,3 +4,7 @@ This is a Project on CNN (deep learning model) where the GEE is used to extract 
 
 
 https://github.com/Prakriti0906/Wayanad_Forest_Cover/blob/main/Extracting_GEE_Data/Extracting_Satellite_Images.js: This is the script file used to export the satellite and masked images for the required years.
+
+https://drive.google.com/file/d/1wQjCrvm-ayFAu7qymPHHcbMPQKbpOOkC/view?usp=sharing: Satellite image with required bands for the year 2023.
+
+https://drive.google.com/file/d/1liMT4S4otWfpxJfdP3PqwTvN_NUUIcH0/view?usp=sharing: Masked image(forest and non forest) for the year 2023.
